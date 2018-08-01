@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="getCarsCount2018_07_31:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getCarsCount2018_07_31_jar</output-path>
+    <root id="root">
+      <element id="archive" name="getCarsCount2018_07_31.jar">
+        <element id="module-output" name="getCarsCount2018_07_31" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.10.7" />
+      <element id="library" level="application" name="spark-assembly-1.5.1-hadoop2.4.0" />
+    </root>
+  </artifact>
+</component>
